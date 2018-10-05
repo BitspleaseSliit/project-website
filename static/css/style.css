@@ -3,6 +3,10 @@
   width: 130px !important;
 }
 
+.text-web-center{
+  text-align: -webkit-center;
+}
+
 p {
   text-align: justify !important;
 }
