@@ -45,6 +45,10 @@ p {
   margin-bottom: 15px !important;
 }
 
+.font-13 {
+  font-size: 13px !important;
+}
+
 
 /* The actual timeline (the vertical ruler) */
 .timeline {
